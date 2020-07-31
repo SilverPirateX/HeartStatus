@@ -1,0 +1,132 @@
+form, content 
+{
+	margin:0px auto;
+	border:0px solid #fff;
+	background:#fff;
+	font-weight:bold;
+}
+.btn
+{
+	padding:15px;
+	font-size:25px;
+	color:#fff;
+	background:#032b31;
+	border:none;
+	border-radius: 5px;
+	margin-left:47%;
+	width:150px;
+}
+.btn,a
+{
+	font-size:20px;
+	color:#fff;
+	text-decoration: none;
+}
+.test2
+{
+	width:55%;
+	margin:0px auto;
+	padding:20px;
+	border:1px solid #B0C4DE;
+	background:#fff;
+	border-radius: 0px 0px 10px 10px;
+	font-weight:bold;
+	text-align:left;
+}
+.text2
+{
+	color:#90bfd1;
+	font-family: fantasy;
+	font-size:35px;
+
+}
+.heartcalc
+{
+	text-align:center;
+	border:5px solid #000;
+	color:#fff;
+	font-weight:bold;
+	font-size:35px;
+	border-bottom:0px;
+}
+body,html
+{
+	background-image:url("heartwal3.jpg");
+	font-size:120%;
+}
+.header
+{
+	width:55%;
+	margin:50px auto 0px;
+	color:#fff;
+	background:#032b31;
+	text-align:center;
+	border:1px solid #B0C4DE;
+	border-bottom:none;
+	border-radius:10px 10px 0px 0px;
+	padding:20px;
+}
+.text3
+{
+	color:#2b8896;
+	font-family: fantasy;
+	font-size:35px;
+
+}
+*
+{
+	margin:0px;
+	padding: 0px;
+}
+.success 
+{
+	color: #3c763d;
+	background:#dff0d8;
+	border:1px solid #3c763d;
+	margin-bottom:0px;
+	margin-top: 0px;
+	width:56.8%;
+	text-align:center;
+	margin-left:21.5%;
+	font-size: 25px;
+}
+.text4
+{
+	color:#2b8896;
+	font-size:35px;
+
+}
+.halfin
+{
+	height:30%;
+	width:28.5%;
+	padding:5px 10px;
+	font-size:25px;
+	border-radius:5px;
+	border:1px solid gray;
+	color:#000;
+	text-align: center;
+}
+.btnin
+{
+	padding:10px;
+	font-size:25px;
+	color:#fff;
+	background:#032b31;
+	border:none;
+	border-radius: 5px;
+	width:150px;
+}
+.btnin,a
+{
+	font-size:20px;
+	color:#fff;
+	text-decoration: none;
+}
+.checkv
+{
+	color:#000;
+	background-color: yellow;
+	text-align:center;
+	font-weight:bold;
+}

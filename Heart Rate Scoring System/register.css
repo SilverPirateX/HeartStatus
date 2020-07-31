@@ -1,0 +1,113 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+body,html
+{
+	background-image:url("heartwal3.jpg");
+	font-size:120%;
+}
+.header
+{
+	width:30%;
+	margin:50px auto 0px;
+	color:#fff;
+	background:#032b31;
+	text-align:center;
+	border:1px solid #B0C4DE;
+	border-bottom:none;
+	border-radius:10px 10px 0px 0px;
+	padding:20px;
+}
+form, content 
+{
+	width:30%;
+	margin:0px auto;
+	padding:20px;
+	border:1px solid #B0C4DE;
+	background:#fff;
+	border-radius: 0px 0px 10px 10px;
+	font-weight:bold;
+}
+.iputg
+{
+	margin:10px 0px 10px 0px;
+	display:block;
+	text-align: left;
+	margin:3px;
+}
+.fullin
+{
+	height:30%;
+	width:93%;
+	padding:5px 10px;
+	font-size:25px;
+	border-radius:5px;
+	border:1px solid gray;
+	color:#000;
+
+}
+.btn
+{
+	padding:10px;
+	font-size:20px;
+	color:#fff;
+	background:#032b31;
+	border:none;
+	border-radius: 5px;
+}
+.error
+{
+	width:92%;
+	margin:0px auto;
+	padding: 10px;
+	border:1px solid #a94442;
+	color: #a94442;
+	background:#f2dede;
+	border-radius: 5px;
+	text-align: left;
+}
+.success {
+	color: #3c763d;
+	background:#dff0d8;
+	border:1px solid #3c763d;
+	margin-bottom:20px;
+	width:30%;
+	text-align:center;
+}
+.heartcalc
+{
+	text-align:center;
+	border:5px solid #000;
+	color:#fff;
+	font-weight:bold;
+	font-size:35px;
+}
+.halfin
+{
+	height:30%;
+	width:28.5%;
+	padding:5px 10px;
+	font-size:25px;
+	border-radius:5px;
+	border:1px solid gray;
+	color:#000;
+}
+.test2
+{
+	width:30%;
+	margin:0px auto;
+	padding:20px;
+	border:1px solid #B0C4DE;
+	background:#fff;
+	border-radius: 0px 0px 10px 10px;
+	font-weight:bold;
+	text-align:left;
+}
+.text2
+{
+	color:#90bfd1;
+	font-family: fantasy;
+	font-size:35px;
+
+}
